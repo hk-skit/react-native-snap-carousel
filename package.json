@@ -37,8 +37,9 @@
     "author": "Meliorence <contact@meliorence.com> (github.com/meliorence)",
     "license": "BSD-3-Clause",
     "dependencies": {
+        "deprecated-react-native-prop-types": "^2.3.0",
         "prop-types": "^15.6.1",
-        "react-addons-shallow-compare": "15.6.2"
+        "react-addons-shallow-compare": "15.6.3"
     },
     "peerDependencies": {
         "react": ">=15.0.0",
@@ -46,7 +47,7 @@
     },
     "devDependencies": {
         "babel-eslint": "^8.2.2",
-        "eslint": "^4.19.1",
+        "eslint": "^8.16.0",
         "eslint-config-standard": "^10.2.1",
         "eslint-config-standard-react": "^5.0.0",
         "eslint-plugin-import": "^2.11.0",
